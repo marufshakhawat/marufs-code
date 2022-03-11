@@ -10,6 +10,7 @@
 Mail: marufshakhawat549@gmail.com <br>
 Facebook : <a href="https://facebook.com/marufshakhawat" target="_blank"> facebook.com/marufshakhawat</a> <br>
 Instagram : <a href="https://instagram.com/marufshakhawat" target="_blank"> instagram.com/marufshakhawat</a> <br>
+Twitter : <a href="https://twitter.com/marufshakhawat2" target="_blank"> twitter.com/marufshakhawat2 </a> <br>
 Discord: <a href="https://discord.com/users/822836944940957736" target="_blank"> discord.com/users/822836944940957736</a> <br>
 <!---
 marufs-code/marufs-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
